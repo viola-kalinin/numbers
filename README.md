@@ -9,7 +9,7 @@
 A bash script named “numbers.sh” that will 
 - prompt a user to type a positive integer 
 - print all the numbers from 1 up to and including that number 
-- print the word "odd" or "even" on the same line as each number.
+- print the word "odd" or "even" on the same line as each number
 
 ## Files 
 1. numbers.sh
