@@ -2,9 +2,9 @@
 # numbers.sh
 # Viola Kalinin
 echo "Enter a positive number: "
-read NUM
+read -r NUM
 N=0
-while [ $N -lt $NUM ]
+while [ $N -lt "$NUM" ]
 	do 
 	N=$((N+1))
 	if [ $((N%2)) -eq 0 ]
